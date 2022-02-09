@@ -27,7 +27,6 @@ masai construct week Unit 4
  - Gopi Mudumal
  - Punam Kumari
  - Aditya Prasad
- - Madhusudhan Sharma
 
 ## Challenges:
 - Time co-ordination
