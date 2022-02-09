@@ -4,11 +4,14 @@ masai construct week Unit 4
 # Technologies Used
 * HTML and CSS
 * JavaScript
-* Localstorage for Storing data
-* API
+* Node Modules
+* MongoDB Database
+* Express Relationship
+* EJS
 
 # Tools
 * VS Code
+* PostMan
 * Github
 
 # functionalities
